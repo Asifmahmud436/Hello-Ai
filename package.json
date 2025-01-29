@@ -2,6 +2,7 @@
   "type": "module",
   "dependencies": {
     "dotenv": "^16.4.7",
+    "groq": "^3.72.1",
     "groq-sdk": "^0.12.0"
   }
 }
